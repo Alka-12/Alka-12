@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on all sorts of opportunities.
 - 💻 My primary coding and problem solving language is Java
-- 📖 I like reading Fantasy books.
+- 📖 I like reading Fantasy Novels.
 - 📫 Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/alka-b09638229
