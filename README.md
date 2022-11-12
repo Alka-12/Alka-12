@@ -2,6 +2,6 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on all sorts of opportunities.
-- 💻 My primary coding and problem solving language: Java
+- 💻 My primary coding and problem solving language is Java
 - 📖 I like reading Fantasy books.
-- 📫 Feel free to cnnect with me on LinkedIn: https://www.linkedin.com/in/alka-b09638229
+- 📫 Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/alka-b09638229
