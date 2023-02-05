@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alka</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alka-12" alt="alka-12" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs, Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **ReactJs and Machine Learning**
 
 - 👯 I’m looking to collaborate on **all sorts of Opportunities**
 
